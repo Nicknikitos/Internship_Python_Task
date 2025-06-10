@@ -34,8 +34,8 @@ Prerequisites
 
 Clone the repository
 
-git clone https://github.com/yourusername/podcast-ai-api.git
-cd podcast-ai-api
+git clone https://github.com/Nicknikitos/Internship_Python_Task.git
+cd Internship_Python_Task
 
 
 Create and activate virtual environment
